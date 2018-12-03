@@ -1,8 +1,8 @@
 
-## Lab Family - Open Voice User Interface Suite for Lab Life
+## Science Family - Open Voice User Interface Suite for Lab Life
 
 
-The Lab Family is a suite of Voice User Interface skills built originally for Alexa. They were all based on the fact template by amazon, but thouroughly modified.
+The Science Family is a suite of Voice User Interface skills built originally for Alexa. They were all based on the fact template by amazon, but thouroughly modified.
 
 To test any of the skills on your alexa-enabled device, the easiest way is to go to your alexa app and search for the skill name on the store.
 
@@ -66,9 +66,8 @@ Setting up the ASK CLI can be a bit complicated, as you have to configure access
 
 	```bash
 
-	$ ask deploy --profile tiago
+	$ ask deploy 
 	```
-In this case, tiago was my profile name, but you will have to change it for yours.
 
 Well, if you have any doubts, don’t hesitate to contact!
 
